@@ -1,0 +1,10 @@
+{
+    "require": {
+        "phpunit/php-timer": "^5.0",
+        "phpunit/php-code-coverage": "^9.2",
+        "symfony/http-foundation": "^6.1",
+        "symfony/translation": "^6.1",
+        "vlucas/phpdotenv": "^5.4",
+        "brick/math": "^0.9.3"
+    }
+}
