@@ -5,6 +5,8 @@
         "symfony/http-foundation": "^6.1",
         "symfony/translation": "^6.1",
         "vlucas/phpdotenv": "^5.4",
-        "brick/math": "^0.9.3"
+        "brick/math": "^0.9.3",
+        "phpoption/phpoption": "^1.8",
+        "paragonie/random_compat": "^9.99"
     }
 }
